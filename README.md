@@ -48,5 +48,5 @@ As part of project our mentor faculty explained the need of such project in our 
 <code><img height="30" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png"></code>
 
 ## Demo
-[<img src="https://i.ytimg.com/vi/Ggx-VTuSx8E/maxresdefault.jpg" width="50%">](https://youtu.be/Ggx-VTuSx8E)
-[![Watch the video](https://img.youtube.com/vi/ZsI4RA8k85I/maxresdefault.jpg)](https://youtu.be/ZsI4RA8k85I)</center>
+[<img src="https://i.ytimg.com/vi/ZsI4RA8k85I/maxresdefault.jpg" width="50%">](https://youtu.be/ZsI4RA8k85I)
+</center>
