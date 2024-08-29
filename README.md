@@ -1,6 +1,6 @@
 # Knowledge-Enhancement-Portal
 
-This project was developed in sponsorship with Government Polytechnic, Karad for administrative purpose. 
+This project was developed in sponsorship with Government Polytechnic, Miraj for administrative purpose. 
 
 ## Motivation 💪
 
