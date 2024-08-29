@@ -13,7 +13,7 @@ As part of project our mentor faculty explained the need of such project in our 
 <li>As part of requirements analysis we analysed the entire system and its requirements.</li>
   <li>Then we moved to UML diagrams which were developed as part of design phase which are present in the next section</li>. 
   <li>We then moved to implementation. We used web technologies for development of the project as our requirement was to build a system which will be accessible to everyone </li>
-  <li>After completion of project the project was handed to Government Polytechnic, Karad for their use.</li>
+  <li>After completion of project the project was handed to Government Polytechnic, Miraj for their use.</li>
 </ol>
 
 ## Features
