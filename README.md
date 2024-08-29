@@ -6,7 +6,7 @@ This project was developed in sponsorship with Government Polytechnic, Miraj for
 
 Educational Institutes across the India require lot of paperwork to be submitted. During exam time, admin has to manually allocate blocks to students. It is very tedious task as it requires lot of efforts and time.
 
-As part of project our mentor faculty explained the need of such project in our institute Government Polytechnic, Karad. There was some existing system but which was not working properly. It tried to automate the process but admin had to enter the details of students in the system manually only. Seat allocation also had lot of issues.
+As part of project our mentor faculty explained the need of such project in our institute Government Polytechnic, Miraj. There was some existing system but which was not working properly. It tried to automate the process but admin had to enter the details of students in the system manually only. Seat allocation also had lot of issues.
 
 ## Work
 <ol>
